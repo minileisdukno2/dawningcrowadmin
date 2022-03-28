@@ -1,0 +1,18 @@
+table,
+        th,
+        td{
+            border: 1px solid #000;
+            border-collapse: collapse;
+            margin-top: 50px;
+        }
+        img{
+            width: 200px;
+        }
+
+.control {
+    margin: 20px 20px 20px 20px;
+}
+#list-sanpham {
+    margin: 20px 20px 20px 20px;
+
+}
